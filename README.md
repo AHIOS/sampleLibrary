@@ -1,4 +1,5 @@
 # sampleLibrary
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Giuseppe Valenti/sampleLibrary.svg?style=flat)](https://travis-ci.org/Giuseppe Valenti/sampleLibrary)
 [![Version](https://img.shields.io/cocoapods/v/sampleLibrary.svg?style=flat)](http://cocoapods.org/pods/sampleLibrary)
@@ -27,3 +28,6 @@ Giuseppe Valenti, g.valenti@wepush.org
 ## License
 
 sampleLibrary is available under the MIT license. See the LICENSE file for more info.
+=======
+Pretty konga 404 POD LIB
+>>>>>>> a09b08e818eab79c93a1f1261ed232c1bc6d209b
