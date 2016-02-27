@@ -1,0 +1,6 @@
+framework module sampleLibrary {
+  umbrella header "sampleLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

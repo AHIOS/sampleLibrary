@@ -1,0 +1,14 @@
+PODS:
+  - sampleLibrary (0.1.0)
+
+DEPENDENCIES:
+  - sampleLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  sampleLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  sampleLibrary: 4a6878f5dbd795f1f5898ff8b3920cb532b49f1b
+
+COCOAPODS: 0.39.0

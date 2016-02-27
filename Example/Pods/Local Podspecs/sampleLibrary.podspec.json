@@ -1,0 +1,25 @@
+{
+  "name": "sampleLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of sampleLibrary.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/sampleLibrary",
+  "license": "MIT",
+  "authors": {
+    "Giuseppe Valenti": "g.valenti@wepush.org"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/sampleLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "sampleLibrary": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
