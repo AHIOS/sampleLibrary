@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  sampleLibrary: 4a6878f5dbd795f1f5898ff8b3920cb532b49f1b
+  sampleLibrary: aae1fb76cff75dc1fe102f0dc9cd12f236a00e81
 
 COCOAPODS: 0.39.0

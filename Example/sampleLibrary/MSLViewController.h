@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
+#import "MSLWebViewController.h"
 
-@interface MSLViewController : UIViewController
+@interface MSLViewController : MSLWebViewController
 
 @end

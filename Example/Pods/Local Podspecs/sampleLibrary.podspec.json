@@ -1,15 +1,15 @@
 {
   "name": "sampleLibrary",
   "version": "0.1.0",
-  "summary": "A short description of sampleLibrary.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/sampleLibrary",
+  "summary": "Pretty konga 404",
+  "description": "Pretty konga 404, Pretty konga 404, Pretty konga 404, Pretty konga 404, Pretty konga 404, Pretty konga 404, Pretty konga 404, Pretty konga 404",
+  "homepage": "https://github.com/AHIOS/sampleLibrary",
   "license": "MIT",
   "authors": {
     "Giuseppe Valenti": "g.valenti@wepush.org"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/sampleLibrary.git",
+    "git": "https://github.com/AHIOS/sampleLibrary.git",
     "tag": "0.1.0"
   },
   "platforms": {

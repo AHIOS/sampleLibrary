@@ -8,6 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MSLWebViewController : UIViewController
+@protocol embedYoutubeVideoDelegate <NSObject>
+
+- (void)playVideoWithId:(NSString *)videoId;
+
+@end
+
+@interface MSLWebViewController : UIViewController <embedYoutubeVideoDelegate>
 
 @end
